@@ -1,0 +1,5 @@
+tensorflow>=2.4.0
+tensorflow_datasets
+tensorflow_model_optimization
+tvm
+numpy
